@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+  background-color: wheat;
+}
+.big-title{
+    font-size: 5rem;
+    color: red;
+    text-align: center;
+}
+
+button{
+    border: 2px solid blue;
+    padding: 20px;
+    background-color: aquamarine;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: blue;
+    border-radius: 25px;
+}
+
+#ans{
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    font-style: initial;
+}
